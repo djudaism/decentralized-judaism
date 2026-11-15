@@ -1,5 +1,3 @@
-Here is the Russian translation of the guide:
-
 ---
 
 # Руководство по еврейским традициям для гуманиста
